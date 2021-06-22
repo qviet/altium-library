@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Download from https://portal.altiumlibrary.com/
+ConnectionString=Provider=SQLNCLI11.1; User ID=alib_GXMIWO3JEKPV; Password="dxJF1Iay4OqjFprZ"; Initial Catalog=altium_library; Data Source=db.altiumlibrary.com,1433; Initial File Name=""; Server SPN=""
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Capacitors - Film
+LastFocusedTable=Amplifiers - Audio
 [Table1]
 SchemaName=
 TableName=Amplifiers - Audio
@@ -158,9 +158,6 @@ TableName=Capacitors - Film
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=194|Footprint Path0=419|Footprint Path 20=107|Footprint Path 30=107|Footprint Ref0=111|Footprint Ref 20=101|Footprint Ref 30=101|Part Number0=109|Library Path0=283|Library Ref0=77|Applications0=246|Capacitance0=85|Comment0=72|ComponentLink1Description0=170|ComponentLink1URL0=575|ComponentLink2Description0=170|ComponentLink2URL0=598|ComponentLink3Description0=170|ComponentLink3URL0=131|ComponentLink4Description0=170|ComponentLink4URL0=131|ComponentLink5Description0=170|ComponentLink5URL0=131|ComponentLink6Description0=170|ComponentLink6URL0=131|Device Package0=101|Dielectric Material0=330|ESR (Equivalent Series Resistance)0=195|Features0=101|Height - Seated (Max)0=133|LastUpdated0=109|Lead Spacing0=91|Lifecycle Status0=100|Manufacturer0=182|Minimum Order0=104|Mounting Type0=102|Operating Temperature0=144|Package / Case0=100|Packaging0=76|Part Status0=78|Price0=47|Ratings0=62|Series0=83|Size / Dimension0=201|Supplier 10=75|Supplier Part Number 10=142|Supplier 20=75|Supplier Part Number 20=142|Supplier 30=75|Supplier Part Number 30=142|Supplier 40=75|Supplier Part Number 40=142|Supplier 50=75|Supplier Part Number 50=142|Supplier 60=75|Supplier Part Number 60=142|Termination0=85|Tolerance0=73|Type0=47|Value0=52|Voltage Rating - AC0=124|Voltage Rating - DC0=125
 [Table24]
 SchemaName=
 TableName=Capacitors - Tantalum
